@@ -10,7 +10,7 @@ bater
 Copiar
 
 Editar
-git clone https://github.com/seu-usuario/refatoracao-web.git
+git clone https://github.com/Enzo-Alexandre/EAD-5-2025.git
 Abra o arquivo HTML no seu navegador para visualizar as páginas.
 
 Problemas Encontrados e Soluções Propostas
